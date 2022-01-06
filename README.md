@@ -7,4 +7,4 @@ The reports above gives us some features
 3. **PageLevelSecurity** -- Implemented the Page level secuirty for certian group of users to view a particular Page
 
 
-All these reports cannot be downloaded or viewed without authours approval 
+##### All these reports cannot be downloaded or viewed without authours approval 
